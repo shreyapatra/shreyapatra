@@ -4,7 +4,7 @@
 - 🌱 Constantly expanding my knowledge and skills
 - 👯 Open to exciting career opportunities
 - 🥅 Aspiring IT professional graduating in 2025
-- [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shreya001)
+
 
 
 
